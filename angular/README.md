@@ -6,5 +6,4 @@
 * [LEARN ANGULAR 2](http://learnangular2.com/components/)
 * [Angular 2 UI with TypeScript and Angular CLI. Backend is Express](https://github.com/stormpath/stormpath-angular2-express-example)
 * [Angular First Look](http://angular2-first-look.azurewebsites.net/)
-* []()
-* []()
+* [Getting Started Fast with Angular 2 CLI](http://www.eloquentwebapp.com/cli-building-angular-2-applications/)
