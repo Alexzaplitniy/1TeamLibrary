@@ -1,6 +1,7 @@
 ### Frameworks
-* [Angular](https://github.com/Alexzaplitniy/1TeamLibrary/blob/master/angular/README.md)
-* [Angularjs](https://github.com/Alexzaplitniy/1TeamLibrary/tree/master/angularjs)
+* [Angular](angular/README.md)
+* [Angularjs](angularjs/README.md)
+* [React](react/README.md)
 
 ### Other
 * [coursehunters.net Видеокурсы для Frontend разработчиков](https://coursehunters.net/frontend)
